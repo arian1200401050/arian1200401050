@@ -2,7 +2,7 @@
 
 <!--
 **arian1200401050/arian1200401050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+!-->
 🚀 About Me
 
 I'm a backend developer with a strong focus on database architecture, complex CRUD operations, and ETL processes. I design scalable and maintainable systems by carefully structuring databases, implementing procedural business logic, and optimizing data flows across platforms.
